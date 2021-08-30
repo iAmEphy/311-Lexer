@@ -1,0 +1,2 @@
+IF x < 5 THEN xIsSmall
+IF y < 3 THEN xIsBig
